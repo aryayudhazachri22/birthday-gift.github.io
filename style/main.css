@@ -106,6 +106,7 @@ body {
   height: 350px;
   max-width: 100%;
   /* height: auto; */
+  border-radius: 40px;
 }
 
 .six .hat {
